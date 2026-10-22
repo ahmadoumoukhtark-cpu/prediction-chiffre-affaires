@@ -156,4 +156,4 @@ Ce projet m’a permis de comprendre que la modélisation ne se limite pas à en
 ## 👤 Auteur
 
 **Ahmadou Moukhtar Kane**  
-Étudiant en mastère professionnel Ingénierie IA & Big Data — Université Centrale de Tunis.
+Étudiant en Master Professionnel Ingénierie EN Intelligence Artificielle— Université Centrale de Tunis.
